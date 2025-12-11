@@ -1,0 +1,14 @@
+,,,
+Вопрос 1,,,
+Загрузка,данных из CSV,в QTableWidget,по сути
+два этапа:,чтение из файла,и запись в,
+Вопрос 2:,,,
+классы,DocumentManager,(Mdi),TableDocument
+ApplicationWindow,загружает,или,файл
+Кладёт,или,забирает,из
+DocumentWidget,,,
+Вопрос 4:,,,
+Сигналы:,,При загрузке в load,
+m_actionsave::triggered,,emit documentCountChanged(),
+m_actionopen::triggered,,,
+Слоты:,//slotSave(),//slotSaveAs(),
