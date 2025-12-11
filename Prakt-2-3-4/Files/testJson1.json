@@ -1,0 +1,5 @@
+{
+    "language": "C++",
+    "text": "#include <iostream>\n#include <cmath>\n\nusing namespace std;\n\nint main(){\n\tcout << pow(5, 2) << endl;\n}\n",
+    "theme": "Light"
+}

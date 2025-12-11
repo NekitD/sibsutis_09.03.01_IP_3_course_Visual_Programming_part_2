@@ -1,0 +1,10 @@
+{
+    "block": "#ffffff",
+    "builtin": "#800080",
+    "comments": "#808080",
+    "keywords": "#ff0000",
+    "numlit": "#0000ff",
+    "other": "#008000",
+    "string": "#ffa500",
+    "type": "#000000"
+}

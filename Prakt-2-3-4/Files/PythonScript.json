@@ -1,0 +1,5 @@
+{
+    "language": "Python",
+    "text": "for i in range(1, 11):\n\tprint(f'Hello World {i}')",
+    "theme": "Dark"
+}

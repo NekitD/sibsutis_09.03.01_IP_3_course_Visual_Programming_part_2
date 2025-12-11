@@ -1,0 +1,5 @@
+{
+    "language": "C++",
+    "text": "#include <iostream>\n\nusing namespace std;\n\nint main(){\n\tcout << \"HELLO WORLD!\" << endl;\n\treturn 0;\n}",
+    "theme": "Dark"
+}
